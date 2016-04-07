@@ -1,0 +1,7 @@
+{
+    "aws-access-key": "AKIAJYAMPLAJ7FABQR2Q",
+    "aws-bucket-name": "www.designtheweb.site",
+    "aws-bucket-website": "www.designtheweb.site.s3-website-eu-west-1.amazonaws.com",
+    "port": 8463,
+    "prettify": true
+}
